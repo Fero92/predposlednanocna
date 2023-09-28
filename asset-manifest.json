@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/predposlednanocna/static/css/main.c85e5d7a.css",
+    "main.js": "/predposlednanocna/static/js/main.b947c254.js",
+    "index.html": "/predposlednanocna/index.html",
+    "main.c85e5d7a.css.map": "/predposlednanocna/static/css/main.c85e5d7a.css.map",
+    "main.b947c254.js.map": "/predposlednanocna/static/js/main.b947c254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85e5d7a.css",
+    "static/js/main.b947c254.js"
+  ]
+}
